@@ -4,3 +4,5 @@ declare module '*.vue' {
   const component: DefineComponent<{}, {}, any>
   export default component
 }
+declare module '@/assets/logo.png'
+declare module '@/assets/needle-ab.png'
