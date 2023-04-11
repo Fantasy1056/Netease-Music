@@ -18,6 +18,10 @@ yarn build
 or
 npm run build
 ```
+### 项目bug
+```
+swiper部分右侧缺少一部分，swiper滚动时会变成直角边框，暂时没想到解决办法。
+```
 ### 项目介绍
 ```
 仿照b站爱写网页的叮叮的网易云音乐项目视频制作的项目，使用vue3, ts, pinia,部分vant组件，后端数据使用网易云音乐官方nodejs后端服务
@@ -28,7 +32,7 @@ npm run build
 ```
 ### 项目展示
 ```
-https://www.bilibili.com/video/BV15m4y1m7aw/
+https://www.bilibili.com/video/BV1hN411w7AF/
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
